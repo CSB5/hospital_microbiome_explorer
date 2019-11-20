@@ -37,5 +37,5 @@ Chng et al (2019). Cartography of opportunistic pathogens and antibiotic resista
 
 ## Contact
 
-Please direct any questions or feedback to [Licheng Xu](licheng_xu@mymail.sutd.edu.sg), [Chenhao Li](lich@gis.a-star.edu.sg) and [Niranjan Nagarajan](nagarajann@gis.a-star.edu.sg).
+Please direct any questions or feedback to [Licheng Xu](mailto:licheng_xu@mymail.sutd.edu.sg), [Chenhao Li](mailto:lich@gis.a-star.edu.sg) and [Niranjan Nagarajan](mailto:nagarajann@gis.a-star.edu.sg).
 
