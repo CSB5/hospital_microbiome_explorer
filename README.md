@@ -1,22 +1,41 @@
-Hospital Microbiome Explorer
+Hospital Microbiome Explorer (beta)
 ------
 
-  This Hospital Microbiome Explorer is developed using Unity Engine
-  
-Usage
-------
+## Description
 
-  Please download all the contents in the holder while maintain the hirerchy. Double click index.html to start.
-  
-  To play the game, use WASD to move. Use mouse to look around, and click on glowing object to call out the data.
-  
-  Because of some engine problems, we are unable to deal with click event while locking the cursor. Thus, extra action is needed when you want to fix camera's position. Press "Q" to fix camera's position.
-  
-  When you want to switch room, simply press "Space" to call out the scene switch menu.
-  
-  The right side HUD show you if the strain appears at some other room. Blue means no while orange means yes.
-  
-Other
-------
+This project provides a proof-of-concept 3D model to explore the hospital microbiome survey data associated with our [manuscript](#citation). 
 
-  This is a very first beta version for demostration, which contains 4 rooms' dataset. More will be added in the future.
+Note: currently the software includes partial data (2 rooms and 2 wards) and the full dataset will be added to the future releases.
+  
+## Installation
+
+The compiled software is available at the [release page](https://github.com/lch14forever/hospital_microbiome_explorer/releases). The following platforms are supported:
+ - WebGL application: Tested on Windows 10, Firefox (52 or newer) or Google Chrome (57 or newer)
+ - Windows executable: Tested on Windows 10
+
+## Usage
+
+Start the application by double clicking index.html (WebGL) or HospitalMicrobiomeExplorer.exe (Windows executable).
+  
+Key binds:
+ - W: Move forward
+ - A: Move left
+ - S: Move back
+ - D: Move right
+ - Mouse: Camera movement
+ - Q: Toggle camera movement (mouse cursor released for selection)
+ - Space: Toggle "Scene Switch" menu
+
+Data exploration:
+ - Click the glowing object to toggle the display for site scores and opportunistic pathogens detected at this site. 
+ - Click the species name to toggle the display for strains detected at this site and the associated antibiotic resistance profile. 
+ - Click the strain name to show the distribution of the strain across sites (highlighted in red) and rooms (highligted in orange on the right panel).
+
+## Citation
+
+Chng et al (2019). Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment.
+
+## Contact
+
+Please direct any questions or feedback to [Licheng Xu](licheng_xu@mymail.sutd.edu.sg), [Chenhao Li](lich@gis.a-star.edu.sg) and [Niranjan Nagarajan](nagarajann@gis.a-star.edu.sg).
+
