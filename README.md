@@ -10,8 +10,8 @@ Note: currently the software includes partial data (2 rooms and 2 wards) and the
 ## Installation
 
 The compiled software is available at the [release page](https://github.com/lch14forever/hospital_microbiome_explorer/releases). The following platforms are supported:
- - WebGL application: Windows 7 or Windows 10, Firefox (52 or newer) or Google Chrome (57 or newer)
- - Windows executable: Windows 7 or Windows 10
+ - [WebGL application](https://github.com/lch14forever/hospital_microbiome_explorer/releases/download/v1.0.1/hospitalExplorerWeb.zip): Windows 7 or Windows 10, Firefox (52 or newer) or Google Chrome (57 or newer)
+ - [Windows executable](https://github.com/lch14forever/hospital_microbiome_explorer/releases/download/v1.0.1/HospitalExplorerPc.zip): Windows 7 or Windows 10
 
 ## Usage
 
