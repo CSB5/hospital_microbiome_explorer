@@ -33,7 +33,7 @@ Data exploration:
 
 ## Citation
 
-Chng et al (2019). Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment.
+Chng *et al*. (2020). Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment. Nature Medicine.
 
 ## Contact
 
