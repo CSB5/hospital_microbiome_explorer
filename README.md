@@ -1,6 +1,8 @@
 Hospital Microbiome Explorer (beta)
 ------
 
+![](img.jpg)
+
 ## Description
 
 This project provides a proof-of-concept 3D model to explore the hospital microbiome survey data associated with our manuscript ([Chng *et al*, 2020](#citation)). 
