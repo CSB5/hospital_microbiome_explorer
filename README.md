@@ -1,7 +1,7 @@
 Hospital Microbiome Explorer (beta)
 ------
 
-![](img.jpg)
+![](img.png)
 
 ## Description
 
