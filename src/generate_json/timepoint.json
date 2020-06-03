@@ -1,0 +1,969 @@
+{
+  "Room_1": {
+    "Sink_Trap": {
+      "Elizabethkingia_anophelis": {
+        "s1": 1
+      }
+    },
+    "Door_Handle": {
+      "Staphylococcus_epidermidis": {
+        "s54": 1
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s13": 2
+      },
+      "Pseudomonas_aeruginosa": {
+        "s6": 1
+      },
+      "Enterococcus_faecalis": {
+        "s6": 1
+      },
+      "Klebsiella_pneumoniae": {
+        "s9": 1
+      }
+    },
+    "Bed_Rail": {
+      "Staphylococcus_epidermidis": {
+        "s23": 2
+      },
+      "Acinetobacter_baumannii": {
+        "s14": 2
+      }
+    },
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s6": 2
+      },
+      "Enterococcus_faecium": {
+        "s3": 2
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Enterococcus_faecalis": {
+        "s6": 1
+      },
+      "Klebsiella_pneumoniae": {
+        "s9": 1
+      }
+    }
+  },
+  "Room_2": {
+    "Sink_Trap": {
+      "Elizabethkingia_anophelis": {
+        "s1": 3
+      }
+    },
+    "Bed_Rail": {
+      "Staphylococcus_epidermidis": {
+        "s36": 1,
+        "s28": 2
+      }
+    },
+    "Cardiac_Table": {
+      "Enterococcus_faecalis": {
+        "s6": 1
+      }
+    }
+  },
+  "MDRO_2": {
+    "Aerator": {
+      "Elizabethkingia_anophelis": {
+        "s7": 2
+      }
+    },
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s6": 1,
+        "s49": 2,
+        "s39": 1
+      },
+      "Staphylococcus_aureus": {
+        "s3": 2,
+        "s1": 1,
+        "s15": 2
+      },
+      "Acinetobacter_baumannii": {
+        "s13": 1,
+        "s6": 2,
+        "s3": 2
+      },
+      "Enterococcus_faecalis": {
+        "s8": 2
+      }
+    },
+    "Bed_Rail_2": {
+      "Staphylococcus_epidermidis": {
+        "s39": 1
+      },
+      "Acinetobacter_baumannii": {
+        "s3": 2
+      },
+      "Enterococcus_faecium": {
+        "s1": 2
+      },
+      "Enterococcus_faecalis": {
+        "s8": 2
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s6": 1,
+        "s13": 2
+      },
+      "Staphylococcus_aureus": {
+        "s2": 3
+      },
+      "Acinetobacter_baumannii": {
+        "s3": 3
+      },
+      "Enterococcus_faecalis": {
+        "s1": 2,
+        "s7": 1
+      }
+    },
+    "Bed_Rail_5": {
+      "Staphylococcus_epidermidis": {
+        "s9": 1,
+        "s3": 2
+      },
+      "Staphylococcus_aureus": {
+        "s3": 2
+      },
+      "Enterococcus_faecalis": {
+        "s7": 1
+      }
+    },
+    "Bed_Rail_3": {
+      "Staphylococcus_epidermidis": {
+        "s43": 1
+      },
+      "Staphylococcus_aureus": {
+        "s20": 1,
+        "s3": 2,
+        "s27": 1
+      },
+      "Enterococcus_faecalis": {
+        "s11": 1
+      }
+    },
+    "Bed_Rail_4": {
+      "Staphylococcus_aureus": {
+        "s2": 1,
+        "s3": 2
+      }
+    },
+    "Bed_Rail_1": {
+      "Staphylococcus_aureus": {
+        "s2": 1
+      },
+      "Acinetobacter_baumannii": {
+        "s6": 2
+      },
+      "Enterococcus_faecalis": {
+        "s6": 2
+      }
+    },
+    "Sink_Trap": {
+      "Pseudomonas_aeruginosa": {
+        "s5": 1
+      }
+    }
+  },
+  "Ward_4": {
+    "Aerator": {
+      "Elizabethkingia_anophelis": {
+        "s7": 3
+      }
+    },
+    "Sink_Trap": {
+      "Elizabethkingia_anophelis": {
+        "s1": 3
+      },
+      "Pseudomonas_aeruginosa": {
+        "s3": 1
+      }
+    },
+    "Cardiac_Table": {
+      "Elizabethkingia_anophelis": {
+        "s3": 2
+      },
+      "Staphylococcus_epidermidis": {
+        "s22": 2,
+        "s75": 2
+      },
+      "Acinetobacter_baumannii": {
+        "s22": 1
+      }
+    },
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s70": 1,
+        "s3": 2,
+        "s4": 2
+      },
+      "Staphylococcus_aureus": {
+        "s2": 2
+      },
+      "Acinetobacter_baumannii": {
+        "s47": 1
+      },
+      "Enterococcus_faecium": {
+        "s1": 1
+      },
+      "Enterococcus_faecalis": {
+        "s1": 2
+      }
+    },
+    "Bed_Rail_1": {
+      "Staphylococcus_epidermidis": {
+        "s51": 2
+      },
+      "Acinetobacter_baumannii": {
+        "s10": 1
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s20": 2,
+        "s4": 2
+      }
+    },
+    "Bed_Rail_2": {
+      "Staphylococcus_epidermidis": {
+        "s22": 2,
+        "s53": 2,
+        "s83": 2,
+        "s81": 2
+      },
+      "Enterococcus_faecium": {
+        "s1": 2
+      }
+    },
+    "Bed_Rail_4": {
+      "Staphylococcus_epidermidis": {
+        "s25": 2
+      },
+      "Staphylococcus_aureus": {
+        "s22": 1
+      },
+      "Pseudomonas_aeruginosa": {
+        "s4": 1
+      }
+    },
+    "Bed_Rail_5": {
+      "Staphylococcus_epidermidis": {
+        "s4": 2
+      }
+    }
+  },
+  "MDRO_3": {
+    "Aerator": {
+      "Elizabethkingia_anophelis": {
+        "s7": 1
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s40": 1
+      },
+      "Staphylococcus_aureus": {
+        "s2": 1,
+        "s1": 1
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s23": 1
+      },
+      "Staphylococcus_aureus": {
+        "s3": 1,
+        "s1": 1,
+        "s2": 1
+      },
+      "Enterococcus_faecium": {
+        "s1": 1
+      },
+      "Enterococcus_faecalis": {
+        "s1": 1
+      }
+    },
+    "Bed_Rail_3": {
+      "Staphylococcus_epidermidis": {
+        "s50": 2
+      },
+      "Staphylococcus_aureus": {
+        "s2": 1,
+        "s3": 3
+      },
+      "Enterococcus_faecalis": {
+        "s2": 1
+      }
+    },
+    "Bed_Rail_5": {
+      "Staphylococcus_epidermidis": {
+        "s78": 2,
+        "s42": 2
+      },
+      "Staphylococcus_aureus": {
+        "s8": 1,
+        "s2": 2
+      },
+      "Acinetobacter_baumannii": {
+        "s25": 1
+      }
+    },
+    "Bed_Rail_2": {
+      "Staphylococcus_epidermidis": {
+        "s22": 2
+      },
+      "Staphylococcus_aureus": {
+        "s3": 1
+      },
+      "Acinetobacter_baumannii": {
+        "s36": 1
+      }
+    },
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s22": 2,
+        "s69": 2,
+        "s32": 2
+      },
+      "Staphylococcus_aureus": {
+        "s1": 1,
+        "s3": 3,
+        "s8": 1
+      },
+      "Acinetobacter_baumannii": {
+        "s14": 2
+      },
+      "Enterococcus_faecium": {
+        "s1": 3
+      },
+      "Enterococcus_faecalis": {
+        "s6": 1,
+        "s2": 1,
+        "s1": 3,
+        "s12": 2,
+        "s3": 2
+      }
+    },
+    "Bed_Rail_4": {
+      "Staphylococcus_epidermidis": {
+        "s58": 1
+      },
+      "Staphylococcus_aureus": {
+        "s2": 1
+      },
+      "Enterococcus_faecalis": {
+        "s1": 1,
+        "s3": 2
+      }
+    },
+    "Bed_Rail_1": {
+      "Staphylococcus_aureus": {
+        "s1": 1,
+        "s3": 2
+      }
+    }
+  },
+  "Ward_2": {
+    "Aerator": {
+      "Elizabethkingia_anophelis": {
+        "s3": 2
+      }
+    },
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s10": 1,
+        "s28": 1
+      },
+      "Staphylococcus_aureus": {
+        "s3": 3,
+        "s2": 2
+      },
+      "Enterococcus_faecalis": {
+        "s14": 1,
+        "s1": 2
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s79": 1,
+        "s13": 1,
+        "s48": 2
+      },
+      "Staphylococcus_aureus": {
+        "s17": 2
+      },
+      "Acinetobacter_baumannii": {
+        "s6": 1
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s9": 1
+      },
+      "Staphylococcus_aureus": {
+        "s3": 1
+      }
+    },
+    "Bed_Rail_5": {
+      "Staphylococcus_epidermidis": {
+        "s60": 1
+      },
+      "Staphylococcus_aureus": {
+        "s3": 1
+      }
+    },
+    "Bed_Rail_1": {
+      "Staphylococcus_epidermidis": {
+        "s23": 2
+      },
+      "Staphylococcus_aureus": {
+        "s2": 2
+      }
+    },
+    "Bed_Rail_3": {
+      "Staphylococcus_epidermidis": {
+        "s13": 2
+      }
+    },
+    "Bed_Rail_4": {
+      "Staphylococcus_epidermidis": {
+        "s38": 1
+      }
+    },
+    "Bed_Rail_2": {
+      "Staphylococcus_aureus": {
+        "s6": 2
+      },
+      "Enterococcus_faecalis": {
+        "s3": 1
+      }
+    }
+  },
+  "MDRO_1": {
+    "Aerator": {
+      "Elizabethkingia_anophelis": {
+        "s3": 2
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s6": 1,
+        "s13": 2,
+        "s23": 1,
+        "s9": 2
+      },
+      "Staphylococcus_aureus": {
+        "s2": 1,
+        "s3": 3
+      }
+    },
+    "Bed_Rail_5": {
+      "Staphylococcus_epidermidis": {
+        "s22": 1,
+        "s9": 2
+      },
+      "Staphylococcus_aureus": {
+        "s2": 1,
+        "s3": 2
+      },
+      "Enterococcus_faecalis": {
+        "s8": 1
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s22": 1
+      },
+      "Staphylococcus_aureus": {
+        "s17": 2
+      }
+    },
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s9": 1,
+        "s13": 2
+      },
+      "Staphylococcus_aureus": {
+        "s3": 3,
+        "s6": 2
+      },
+      "Enterococcus_faecalis": {
+        "s4": 1
+      }
+    },
+    "Bed_Rail_3": {
+      "Staphylococcus_epidermidis": {
+        "s9": 2
+      },
+      "Staphylococcus_aureus": {
+        "s2": 1,
+        "s3": 2
+      },
+      "Enterococcus_faecalis": {
+        "s10": 2
+      },
+      "Klebsiella_pneumoniae": {
+        "s3": 2
+      }
+    },
+    "Bed_Rail_4": {
+      "Staphylococcus_epidermidis": {
+        "s13": 2
+      },
+      "Staphylococcus_aureus": {
+        "s7": 1,
+        "s3": 2,
+        "s6": 2
+      },
+      "Enterococcus_faecalis": {
+        "s5": 2
+      }
+    },
+    "Bed_Rail_2": {
+      "Staphylococcus_aureus": {
+        "s3": 3
+      },
+      "Enterococcus_faecalis": {
+        "s13": 1
+      }
+    },
+    "Bed_Rail_1": {
+      "Staphylococcus_aureus": {
+        "s3": 2
+      }
+    }
+  },
+  "Room_5": {
+    "Sink_Trap": {
+      "Elizabethkingia_anophelis": {
+        "s1": 2
+      },
+      "Pseudomonas_aeruginosa": {
+        "s1": 1
+      },
+      "Klebsiella_pneumoniae": {
+        "s2": 1
+      }
+    },
+    "Door_Handle": {
+      "Staphylococcus_epidermidis": {
+        "s27": 1
+      },
+      "Staphylococcus_aureus": {
+        "s29": 1
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s10": 1
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s9": 1
+      },
+      "Acinetobacter_baumannii": {
+        "s41": 1
+      },
+      "Klebsiella_pneumoniae": {
+        "s7": 1
+      }
+    },
+    "Bedside_Locker": {
+      "Pseudomonas_aeruginosa": {
+        "s1": 1
+      }
+    },
+    "Bed_Rail": {
+      "Klebsiella_pneumoniae": {
+        "s2": 1
+      }
+    }
+  },
+  "Room_3": {
+    "Sink_Trap": {
+      "Elizabethkingia_anophelis": {
+        "s3": 2
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s13": 2
+      },
+      "Acinetobacter_baumannii": {
+        "s4": 2
+      },
+      "Enterococcus_faecalis": {
+        "s1": 3
+      }
+    },
+    "Door_Handle": {
+      "Staphylococcus_epidermidis": {
+        "s13": 2
+      },
+      "Enterococcus_faecalis": {
+        "s1": 3
+      }
+    },
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s13": 2
+      },
+      "Enterococcus_faecalis": {
+        "s1": 2
+      }
+    },
+    "Bed_Rail": {
+      "Staphylococcus_epidermidis": {
+        "s13": 1
+      },
+      "Acinetobacter_baumannii": {
+        "s39": 2
+      },
+      "Enterococcus_faecalis": {
+        "s1": 3
+      },
+      "Klebsiella_pneumoniae": {
+        "s2": 2
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s13": 2
+      },
+      "Enterococcus_faecalis": {
+        "s1": 2
+      }
+    }
+  },
+  "MDRO_4": {
+    "Aerator": {
+      "Elizabethkingia_anophelis": {
+        "s1": 1
+      }
+    },
+    "Bed_Rail_2": {
+      "Staphylococcus_epidermidis": {
+        "s34": 1,
+        "s73": 1
+      },
+      "Staphylococcus_aureus": {
+        "s3": 2,
+        "s11": 1
+      },
+      "Enterococcus_faecium": {
+        "s1": 2
+      }
+    },
+    "Bed_Rail_4": {
+      "Staphylococcus_epidermidis": {
+        "s9": 1,
+        "s4": 2
+      },
+      "Staphylococcus_aureus": {
+        "s13": 2
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s6": 1,
+        "s27": 2
+      },
+      "Staphylococcus_aureus": {
+        "s29": 1,
+        "s2": 2,
+        "s4": 2,
+        "s3": 2
+      },
+      "Acinetobacter_baumannii": {
+        "s65": 2,
+        "s58": 2,
+        "s12": 2
+      },
+      "Enterococcus_faecium": {
+        "s1": 2
+      },
+      "Enterococcus_faecalis": {
+        "s1": 2
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s46": 2,
+        "s22": 2
+      },
+      "Staphylococcus_aureus": {
+        "s10": 2,
+        "s3": 2
+      },
+      "Acinetobacter_baumannii": {
+        "s43": 1
+      },
+      "Enterococcus_faecalis": {
+        "s1": 1
+      }
+    },
+    "Bedside_Locker": {
+      "Staphylococcus_aureus": {
+        "s3": 3
+      },
+      "Acinetobacter_baumannii": {
+        "s3": 1,
+        "s12": 2
+      },
+      "Enterococcus_faecium": {
+        "s1": 3
+      },
+      "Enterococcus_faecalis": {
+        "s9": 1,
+        "s1": 2
+      },
+      "Klebsiella_pneumoniae": {
+        "s8": 1
+      }
+    },
+    "Sink_Trap": {
+      "Staphylococcus_aureus": {
+        "s3": 2
+      },
+      "Pseudomonas_aeruginosa": {
+        "s2": 2
+      }
+    },
+    "Bed_Rail_5": {
+      "Staphylococcus_aureus": {
+        "s11": 1
+      },
+      "Enterococcus_faecium": {
+        "s1": 2
+      }
+    },
+    "Bed_Rail_1": {
+      "Enterococcus_faecium": {
+        "s1": 2
+      },
+      "Klebsiella_pneumoniae": {
+        "s10": 1
+      }
+    },
+    "Bed_Rail_3": {
+      "Klebsiella_pneumoniae": {
+        "s6": 1
+      }
+    }
+  },
+  "Ward_3": {
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s63": 1,
+        "s82": 1,
+        "s6": 1,
+        "s45": 1,
+        "s33": 2,
+        "s22": 2
+      },
+      "Staphylococcus_aureus": {
+        "s3": 3
+      },
+      "Acinetobacter_baumannii": {
+        "s6": 2
+      },
+      "Enterococcus_faecium": {
+        "s1": 3
+      },
+      "Enterococcus_faecalis": {
+        "s1": 3
+      }
+    },
+    "Bed_Rail_4": {
+      "Staphylococcus_epidermidis": {
+        "s4": 1
+      },
+      "Staphylococcus_aureus": {
+        "s3": 2
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s13": 1
+      },
+      "Klebsiella_pneumoniae": {
+        "s11": 2
+      }
+    },
+    "Bed_Rail_3": {
+      "Staphylococcus_epidermidis": {
+        "s45": 1,
+        "s4": 1
+      },
+      "Staphylococcus_aureus": {
+        "s3": 1
+      },
+      "Enterococcus_faecalis": {
+        "s9": 2
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s4": 1,
+        "s67": 2
+      },
+      "Staphylococcus_aureus": {
+        "s3": 1,
+        "s6": 2
+      }
+    },
+    "Bed_Rail_1": {
+      "Staphylococcus_epidermidis": {
+        "s13": 1
+      },
+      "Staphylococcus_aureus": {
+        "s3": 2
+      },
+      "Klebsiella_pneumoniae": {
+        "s4": 1
+      }
+    },
+    "Bed_Rail_5": {
+      "Staphylococcus_epidermidis": {
+        "s6": 2
+      },
+      "Enterococcus_faecium": {
+        "s1": 1
+      }
+    },
+    "Bed_Rail_2": {
+      "Staphylococcus_epidermidis": {
+        "s13": 1
+      }
+    }
+  },
+  "Ward_1": {
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s5": 2,
+        "s9": 2,
+        "s13": 1
+      },
+      "Staphylococcus_aureus": {
+        "s3": 2,
+        "s6": 2,
+        "s24": 2
+      },
+      "Acinetobacter_baumannii": {
+        "s71": 1,
+        "s3": 1,
+        "s6": 1
+      },
+      "Enterococcus_faecium": {
+        "s2": 2
+      },
+      "Enterococcus_faecalis": {
+        "s1": 2,
+        "s3": 1
+      },
+      "Klebsiella_pneumoniae": {
+        "s4": 1
+      }
+    },
+    "Bed_Rail_5": {
+      "Staphylococcus_epidermidis": {
+        "s74": 1,
+        "s61": 1,
+        "s5": 2,
+        "s9": 2
+      }
+    },
+    "Bed_Rail_3": {
+      "Staphylococcus_epidermidis": {
+        "s13": 2,
+        "s44": 2
+      }
+    },
+    "Bed_Rail_2": {
+      "Staphylococcus_epidermidis": {
+        "s13": 2
+      },
+      "Enterococcus_faecalis": {
+        "s3": 1
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s13": 2
+      },
+      "Acinetobacter_baumannii": {
+        "s3": 1
+      }
+    },
+    "Bed_Rail_1": {
+      "Staphylococcus_aureus": {
+        "s6": 2
+      }
+    },
+    "Bed_Rail_4": {
+      "Acinetobacter_baumannii": {
+        "s3": 1
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Acinetobacter_baumannii": {
+        "s3": 2
+      },
+      "Enterococcus_faecium": {
+        "s1": 1
+      },
+      "Klebsiella_pneumoniae": {
+        "s1": 1
+      }
+    }
+  },
+  "Room_4": {
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s13": 1
+      },
+      "Staphylococcus_aureus": {
+        "s3": 1
+      },
+      "Klebsiella_pneumoniae": {
+        "s5": 1
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s13": 1
+      },
+      "Acinetobacter_baumannii": {
+        "s8": 2
+      }
+    },
+    "Door_Handle": {
+      "Staphylococcus_epidermidis": {
+        "s13": 1
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s13": 1
+      },
+      "Acinetobacter_baumannii": {
+        "s62": 1
+      },
+      "Enterococcus_faecium": {
+        "s1": 2
+      }
+    },
+    "Bed_Rail": {
+      "Staphylococcus_aureus": {
+        "s3": 1
+      }
+    }
+  }
+}

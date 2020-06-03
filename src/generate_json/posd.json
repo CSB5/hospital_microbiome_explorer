@@ -1,0 +1,969 @@
+{
+  "Room_1": {
+    "Sink_Trap": {
+      "Elizabethkingia_anophelis": {
+        "s1": ["CHLOR"]
+      }
+    },
+    "Door_Handle": {
+      "Staphylococcus_epidermidis": {
+        "s54": ["AMP", "BHI"]
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["KAN"]
+      },
+      "Pseudomonas_aeruginosa": {
+        "s6": ["CHLOR"]
+      },
+      "Enterococcus_faecalis": {
+        "s6": ["KAN", "STREP", "TET"]
+      },
+      "Klebsiella_pneumoniae": {
+        "s9": ["CHLOR"]
+      }
+    },
+    "Bed_Rail": {
+      "Staphylococcus_epidermidis": {
+        "s23": ["KAN"]
+      },
+      "Acinetobacter_baumannii": {
+        "s14": ["BHI"]
+      }
+    },
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s6": ["CHLOR"]
+      },
+      "Enterococcus_faecium": {
+        "s3": ["STREP"]
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Enterococcus_faecalis": {
+        "s6": ["KAN", "STREP"]
+      },
+      "Klebsiella_pneumoniae": {
+        "s9": ["CHLOR"]
+      }
+    }
+  },
+  "Room_2": {
+    "Sink_Trap": {
+      "Elizabethkingia_anophelis": {
+        "s1": ["CHLOR", "STREP"]
+      }
+    },
+    "Bed_Rail": {
+      "Staphylococcus_epidermidis": {
+        "s36": ["CHLOR"],
+        "s28": ["AMP", "BHI"]
+      }
+    },
+    "Cardiac_Table": {
+      "Enterococcus_faecalis": {
+        "s6": ["AMP", "TET", "STREP", "BHI"]
+      }
+    }
+  },
+  "MDRO_2": {
+    "Aerator": {
+      "Elizabethkingia_anophelis": {
+        "s7": ["AMP"]
+      }
+    },
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s6": ["KAN", "TET"],
+        "s49": ["TET"],
+        "s39": ["BHI"]
+      },
+      "Staphylococcus_aureus": {
+        "s3": ["AMP", "KAN", "TET", "STREP", "BHI", "CHLOR"],
+        "s1": ["TET"],
+        "s15": ["STREP"]
+      },
+      "Acinetobacter_baumannii": {
+        "s13": ["CHLOR", "TET", "BHI"],
+        "s6": ["CHLOR"],
+        "s3": ["AMP", "CHLOR", "KAN", "TET"]
+      },
+      "Enterococcus_faecalis": {
+        "s8": ["STREP"]
+      }
+    },
+    "Bed_Rail_2": {
+      "Staphylococcus_epidermidis": {
+        "s39": ["AMP", "BHI"]
+      },
+      "Acinetobacter_baumannii": {
+        "s3": ["CHLOR", "KAN", "TET", "AMP", "BHI"]
+      },
+      "Enterococcus_faecium": {
+        "s1": ["STREP"]
+      },
+      "Enterococcus_faecalis": {
+        "s8": ["STREP"]
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s6": ["KAN"],
+        "s13": ["KAN", "CHLOR", "STREP", "TET", "BHI"]
+      },
+      "Staphylococcus_aureus": {
+        "s2": ["AMP", "STREP", "CHLOR", "BHI"]
+      },
+      "Acinetobacter_baumannii": {
+        "s3": ["AMP", "STREP", "KAN", "TET", "CHLOR", "BHI"]
+      },
+      "Enterococcus_faecalis": {
+        "s1": ["KAN", "STREP", "TET"],
+        "s7": ["STREP"]
+      }
+    },
+    "Bed_Rail_5": {
+      "Staphylococcus_epidermidis": {
+        "s9": ["KAN"],
+        "s3": ["CHLOR"]
+      },
+      "Staphylococcus_aureus": {
+        "s3": ["CHLOR", "KAN", "TET", "AMP", "BHI"]
+      },
+      "Enterococcus_faecalis": {
+        "s7": ["AMP", "KAN", "STREP", "BHI", "CHLOR"]
+      }
+    },
+    "Bed_Rail_3": {
+      "Staphylococcus_epidermidis": {
+        "s43": ["TET"]
+      },
+      "Staphylococcus_aureus": {
+        "s20": ["CHLOR"],
+        "s3": ["AMP", "KAN", "TET", "BHI"],
+        "s27": ["TET"]
+      },
+      "Enterococcus_faecalis": {
+        "s11": ["AMP"]
+      }
+    },
+    "Bed_Rail_4": {
+      "Staphylococcus_aureus": {
+        "s2": ["STREP"],
+        "s3": ["KAN"]
+      }
+    },
+    "Bed_Rail_1": {
+      "Staphylococcus_aureus": {
+        "s2": ["AMP"]
+      },
+      "Acinetobacter_baumannii": {
+        "s6": ["CHLOR", "KAN", "TET", "BHI", "STREP", "AMP"]
+      },
+      "Enterococcus_faecalis": {
+        "s6": ["KAN", "BHI", "AMP"]
+      }
+    },
+    "Sink_Trap": {
+      "Pseudomonas_aeruginosa": {
+        "s5": ["KAN"]
+      }
+    }
+  },
+  "Ward_4": {
+    "Aerator": {
+      "Elizabethkingia_anophelis": {
+        "s7": ["KAN", "AMP", "BHI"]
+      }
+    },
+    "Sink_Trap": {
+      "Elizabethkingia_anophelis": {
+        "s1": ["CHLOR", "KAN", "STREP"]
+      },
+      "Pseudomonas_aeruginosa": {
+        "s3": ["CHLOR", "TET", "KAN"]
+      }
+    },
+    "Cardiac_Table": {
+      "Elizabethkingia_anophelis": {
+        "s3": ["BHI"]
+      },
+      "Staphylococcus_epidermidis": {
+        "s22": ["AMP", "KAN", "TET"],
+        "s75": ["KAN", "TET"]
+      },
+      "Acinetobacter_baumannii": {
+        "s22": ["CHLOR"]
+      }
+    },
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s70": ["KAN", "TET"],
+        "s3": ["KAN"],
+        "s4": ["STREP", "TET"]
+      },
+      "Staphylococcus_aureus": {
+        "s2": ["AMP", "CHLOR", "STREP"]
+      },
+      "Acinetobacter_baumannii": {
+        "s47": ["AMP", "CHLOR", "BHI", "STREP"]
+      },
+      "Enterococcus_faecium": {
+        "s1": ["STREP"]
+      },
+      "Enterococcus_faecalis": {
+        "s1": ["BHI"]
+      }
+    },
+    "Bed_Rail_1": {
+      "Staphylococcus_epidermidis": {
+        "s51": ["CHLOR"]
+      },
+      "Acinetobacter_baumannii": {
+        "s10": ["CHLOR"]
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s20": ["KAN"],
+        "s4": ["TET"]
+      }
+    },
+    "Bed_Rail_2": {
+      "Staphylococcus_epidermidis": {
+        "s22": ["AMP"],
+        "s53": ["KAN"],
+        "s83": ["TET"],
+        "s81": ["BHI"]
+      },
+      "Enterococcus_faecium": {
+        "s1": ["AMP", "STREP"]
+      }
+    },
+    "Bed_Rail_4": {
+      "Staphylococcus_epidermidis": {
+        "s25": ["TET"]
+      },
+      "Staphylococcus_aureus": {
+        "s22": ["KAN", "TET"]
+      },
+      "Pseudomonas_aeruginosa": {
+        "s4": ["CHLOR"]
+      }
+    },
+    "Bed_Rail_5": {
+      "Staphylococcus_epidermidis": {
+        "s4": ["TET"]
+      }
+    }
+  },
+  "MDRO_3": {
+    "Aerator": {
+      "Elizabethkingia_anophelis": {
+        "s7": ["KAN", "STREP"]
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s40": ["STREP"]
+      },
+      "Staphylococcus_aureus": {
+        "s2": ["STREP", "BHI"],
+        "s1": ["TET"]
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s23": ["KAN", "TET"]
+      },
+      "Staphylococcus_aureus": {
+        "s3": ["KAN"],
+        "s1": ["AMP", "KAN", "TET"],
+        "s2": ["AMP", "STREP"]
+      },
+      "Enterococcus_faecium": {
+        "s1": ["STREP"]
+      },
+      "Enterococcus_faecalis": {
+        "s1": ["AMP", "KAN", "STREP"]
+      }
+    },
+    "Bed_Rail_3": {
+      "Staphylococcus_epidermidis": {
+        "s50": ["KAN"]
+      },
+      "Staphylococcus_aureus": {
+        "s2": ["AMP"],
+        "s3": ["KAN"]
+      },
+      "Enterococcus_faecalis": {
+        "s2": ["CHLOR", "KAN", "STREP", "TET", "BHI"]
+      }
+    },
+    "Bed_Rail_5": {
+      "Staphylococcus_epidermidis": {
+        "s78": ["AMP"],
+        "s42": ["BHI"]
+      },
+      "Staphylococcus_aureus": {
+        "s8": ["AMP", "BHI"],
+        "s2": ["AMP", "BHI"]
+      },
+      "Acinetobacter_baumannii": {
+        "s25": ["CHLOR", "AMP", "BHI"]
+      }
+    },
+    "Bed_Rail_2": {
+      "Staphylococcus_epidermidis": {
+        "s22": ["KAN", "TET", "BHI"]
+      },
+      "Staphylococcus_aureus": {
+        "s3": ["AMP", "KAN", "BHI", "STREP"]
+      },
+      "Acinetobacter_baumannii": {
+        "s36": ["AMP"]
+      }
+    },
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s22": ["TET"],
+        "s69": ["TET"],
+        "s32": ["BHI"]
+      },
+      "Staphylococcus_aureus": {
+        "s1": ["TET"],
+        "s3": ["KAN", "AMP", "TET", "BHI"],
+        "s8": ["AMP", "BHI"]
+      },
+      "Acinetobacter_baumannii": {
+        "s14": ["AMP", "BHI"]
+      },
+      "Enterococcus_faecium": {
+        "s1": ["STREP"]
+      },
+      "Enterococcus_faecalis": {
+        "s6": ["KAN", "TET", "STREP"],
+        "s2": ["AMP", "CHLOR", "KAN", "STREP"],
+        "s1": ["AMP", "KAN", "STREP", "TET", "BHI"],
+        "s12": ["AMP"],
+        "s3": ["TET"]
+      }
+    },
+    "Bed_Rail_4": {
+      "Staphylococcus_epidermidis": {
+        "s58": ["CHLOR"]
+      },
+      "Staphylococcus_aureus": {
+        "s2": ["AMP"]
+      },
+      "Enterococcus_faecalis": {
+        "s1": ["KAN", "STREP", "AMP", "CHLOR", "TET"],
+        "s3": ["TET", "AMP", "BHI"]
+      }
+    },
+    "Bed_Rail_1": {
+      "Staphylococcus_aureus": {
+        "s1": ["TET"],
+        "s3": ["AMP", "BHI"]
+      }
+    }
+  },
+  "Ward_2": {
+    "Aerator": {
+      "Elizabethkingia_anophelis": {
+        "s3": ["STREP", "CHLOR"]
+      }
+    },
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s10": ["CHLOR"],
+        "s28": ["AMP"]
+      },
+      "Staphylococcus_aureus": {
+        "s3": ["AMP", "KAN", "TET", "BHI"],
+        "s2": ["BHI"]
+      },
+      "Enterococcus_faecalis": {
+        "s14": ["STREP"],
+        "s1": ["CHLOR", "KAN", "STREP", "TET", "AMP", "BHI"]
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s79": ["CHLOR"],
+        "s13": ["AMP", "KAN", "BHI"],
+        "s48": ["AMP", "BHI"]
+      },
+      "Staphylococcus_aureus": {
+        "s17": ["AMP", "BHI"]
+      },
+      "Acinetobacter_baumannii": {
+        "s6": ["AMP", "CHLOR", "STREP", "TET", "KAN", "BHI"]
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s9": ["TET"]
+      },
+      "Staphylococcus_aureus": {
+        "s3": ["AMP", "TET", "BHI"]
+      }
+    },
+    "Bed_Rail_5": {
+      "Staphylococcus_epidermidis": {
+        "s60": ["TET"]
+      },
+      "Staphylococcus_aureus": {
+        "s3": ["KAN", "TET", "BHI"]
+      }
+    },
+    "Bed_Rail_1": {
+      "Staphylococcus_epidermidis": {
+        "s23": ["KAN"]
+      },
+      "Staphylococcus_aureus": {
+        "s2": ["AMP", "BHI"]
+      }
+    },
+    "Bed_Rail_3": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["TET"]
+      }
+    },
+    "Bed_Rail_4": {
+      "Staphylococcus_epidermidis": {
+        "s38": ["CHLOR"]
+      }
+    },
+    "Bed_Rail_2": {
+      "Staphylococcus_aureus": {
+        "s6": ["TET"]
+      },
+      "Enterococcus_faecalis": {
+        "s3": ["AMP", "KAN", "TET", "BHI", "STREP"]
+      }
+    }
+  },
+  "MDRO_1": {
+    "Aerator": {
+      "Elizabethkingia_anophelis": {
+        "s3": ["KAN", "STREP", "TET", "CHLOR", "BHI"]
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s6": ["AMP", "KAN", "TET", "CHLOR", "BHI"],
+        "s13": ["KAN"],
+        "s23": ["CHLOR"],
+        "s9": ["KAN"]
+      },
+      "Staphylococcus_aureus": {
+        "s2": ["TET"],
+        "s3": ["KAN", "TET"]
+      }
+    },
+    "Bed_Rail_5": {
+      "Staphylococcus_epidermidis": {
+        "s22": ["KAN", "TET"],
+        "s9": ["TET"]
+      },
+      "Staphylococcus_aureus": {
+        "s2": ["TET"],
+        "s3": ["TET", "BHI"]
+      },
+      "Enterococcus_faecalis": {
+        "s8": ["KAN", "STREP", "TET", "CHLOR", "BHI", "AMP"]
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s22": ["TET"]
+      },
+      "Staphylococcus_aureus": {
+        "s17": ["AMP"]
+      }
+    },
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s9": ["CHLOR", "KAN"],
+        "s13": ["TET"]
+      },
+      "Staphylococcus_aureus": {
+        "s3": ["AMP", "KAN", "TET", "BHI"],
+        "s6": ["AMP", "TET"]
+      },
+      "Enterococcus_faecalis": {
+        "s4": ["AMP", "STREP", "KAN", "BHI", "CHLOR"]
+      }
+    },
+    "Bed_Rail_3": {
+      "Staphylococcus_epidermidis": {
+        "s9": ["KAN"]
+      },
+      "Staphylococcus_aureus": {
+        "s2": ["TET", "AMP", "BHI"],
+        "s3": ["CHLOR"]
+      },
+      "Enterococcus_faecalis": {
+        "s10": ["KAN"]
+      },
+      "Klebsiella_pneumoniae": {
+        "s3": ["AMP", "CHLOR", "BHI"]
+      }
+    },
+    "Bed_Rail_4": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["KAN"]
+      },
+      "Staphylococcus_aureus": {
+        "s7": ["AMP", "BHI"],
+        "s3": ["KAN"],
+        "s6": ["TET"]
+      },
+      "Enterococcus_faecalis": {
+        "s5": ["AMP", "CHLOR", "KAN", "STREP", "TET", "BHI"]
+      }
+    },
+    "Bed_Rail_2": {
+      "Staphylococcus_aureus": {
+        "s3": ["AMP", "KAN", "TET", "BHI"]
+      },
+      "Enterococcus_faecalis": {
+        "s13": ["STREP"]
+      }
+    },
+    "Bed_Rail_1": {
+      "Staphylococcus_aureus": {
+        "s3": ["KAN", "AMP"]
+      }
+    }
+  },
+  "Room_5": {
+    "Sink_Trap": {
+      "Elizabethkingia_anophelis": {
+        "s1": ["AMP", "STREP", "CHLOR", "KAN", "TET", "BHI"]
+      },
+      "Pseudomonas_aeruginosa": {
+        "s1": ["AMP", "CHLOR", "KAN", "TET", "BHI"]
+      },
+      "Klebsiella_pneumoniae": {
+        "s2": ["AMP", "CHLOR", "KAN", "STREP", "TET"]
+      }
+    },
+    "Door_Handle": {
+      "Staphylococcus_epidermidis": {
+        "s27": ["AMP", "KAN", "BHI"]
+      },
+      "Staphylococcus_aureus": {
+        "s29": ["CHLOR"]
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s10": ["CHLOR", "KAN"]
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s9": ["TET"]
+      },
+      "Acinetobacter_baumannii": {
+        "s41": ["CHLOR", "AMP", "STREP", "BHI"]
+      },
+      "Klebsiella_pneumoniae": {
+        "s7": ["AMP", "STREP", "BHI"]
+      }
+    },
+    "Bedside_Locker": {
+      "Pseudomonas_aeruginosa": {
+        "s1": ["CHLOR", "AMP", "KAN", "STREP", "TET"]
+      }
+    },
+    "Bed_Rail": {
+      "Klebsiella_pneumoniae": {
+        "s2": ["STREP", "KAN", "CHLOR", "TET", "BHI", "AMP"]
+      }
+    }
+  },
+  "Room_3": {
+    "Sink_Trap": {
+      "Elizabethkingia_anophelis": {
+        "s3": ["AMP", "KAN", "TET"]
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["KAN", "TET"]
+      },
+      "Acinetobacter_baumannii": {
+        "s4": ["AMP", "CHLOR", "STREP", "BHI"]
+      },
+      "Enterococcus_faecalis": {
+        "s1": ["AMP", "KAN", "TET", "STREP", "BHI"]
+      }
+    },
+    "Door_Handle": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["TET", "KAN", "BHI"]
+      },
+      "Enterococcus_faecalis": {
+        "s1": ["STREP", "TET", "AMP", "KAN", "BHI"]
+      }
+    },
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["TET", "AMP", "KAN", "CHLOR"]
+      },
+      "Enterococcus_faecalis": {
+        "s1": ["TET", "AMP", "STREP", "KAN", "CHLOR"]
+      }
+    },
+    "Bed_Rail": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["KAN"]
+      },
+      "Acinetobacter_baumannii": {
+        "s39": ["BHI", "TET", "AMP"]
+      },
+      "Enterococcus_faecalis": {
+        "s1": ["KAN", "TET", "STREP"]
+      },
+      "Klebsiella_pneumoniae": {
+        "s2": ["CHLOR", "KAN"]
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["AMP", "KAN"]
+      },
+      "Enterococcus_faecalis": {
+        "s1": ["AMP", "KAN", "TET"]
+      }
+    }
+  },
+  "MDRO_4": {
+    "Aerator": {
+      "Elizabethkingia_anophelis": {
+        "s1": ["BHI"]
+      }
+    },
+    "Bed_Rail_2": {
+      "Staphylococcus_epidermidis": {
+        "s34": ["CHLOR"],
+        "s73": ["KAN"]
+      },
+      "Staphylococcus_aureus": {
+        "s3": ["KAN", "BHI"],
+        "s11": ["AMP"]
+      },
+      "Enterococcus_faecium": {
+        "s1": ["STREP", "AMP"]
+      }
+    },
+    "Bed_Rail_4": {
+      "Staphylococcus_epidermidis": {
+        "s9": ["KAN", "TET"],
+        "s4": ["AMP", "TET", "BHI"]
+      },
+      "Staphylococcus_aureus": {
+        "s13": ["AMP", "BHI"]
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s6": ["TET"],
+        "s27": ["KAN"]
+      },
+      "Staphylococcus_aureus": {
+        "s29": ["KAN"],
+        "s2": ["AMP"],
+        "s4": ["STREP"],
+        "s3": ["KAN", "TET", "BHI"]
+      },
+      "Acinetobacter_baumannii": {
+        "s65": ["CHLOR"],
+        "s58": ["AMP", "CHLOR", "BHI"],
+        "s12": ["AMP", "BHI"]
+      },
+      "Enterococcus_faecium": {
+        "s1": ["STREP", "AMP"]
+      },
+      "Enterococcus_faecalis": {
+        "s1": ["STREP"]
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s46": ["STREP"],
+        "s22": ["TET"]
+      },
+      "Staphylococcus_aureus": {
+        "s10": ["STREP"],
+        "s3": ["KAN", "TET", "BHI"]
+      },
+      "Acinetobacter_baumannii": {
+        "s43": ["AMP", "CHLOR", "BHI"]
+      },
+      "Enterococcus_faecalis": {
+        "s1": ["KAN", "STREP", "TET"]
+      }
+    },
+    "Bedside_Locker": {
+      "Staphylococcus_aureus": {
+        "s3": ["KAN", "TET", "AMP", "BHI"]
+      },
+      "Acinetobacter_baumannii": {
+        "s3": ["AMP", "CHLOR", "KAN", "TET", "BHI"],
+        "s12": ["AMP", "CHLOR", "BHI"]
+      },
+      "Enterococcus_faecium": {
+        "s1": ["TET", "KAN", "AMP", "STREP"]
+      },
+      "Enterococcus_faecalis": {
+        "s9": ["STREP", "TET"],
+        "s1": ["STREP", "KAN"]
+      },
+      "Klebsiella_pneumoniae": {
+        "s8": ["STREP", "BHI"]
+      }
+    },
+    "Sink_Trap": {
+      "Staphylococcus_aureus": {
+        "s3": ["KAN"]
+      },
+      "Pseudomonas_aeruginosa": {
+        "s2": ["CHLOR", "BHI", "TET"]
+      }
+    },
+    "Bed_Rail_5": {
+      "Staphylococcus_aureus": {
+        "s11": ["AMP"]
+      },
+      "Enterococcus_faecium": {
+        "s1": ["AMP", "KAN", "STREP"]
+      }
+    },
+    "Bed_Rail_1": {
+      "Enterococcus_faecium": {
+        "s1": ["TET"]
+      },
+      "Klebsiella_pneumoniae": {
+        "s10": ["AMP", "KAN", "BHI"]
+      }
+    },
+    "Bed_Rail_3": {
+      "Klebsiella_pneumoniae": {
+        "s6": ["KAN", "STREP", "TET", "BHI", "AMP"]
+      }
+    }
+  },
+  "Ward_3": {
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s63": ["AMP"],
+        "s82": ["KAN"],
+        "s6": ["AMP", "CHLOR", "KAN", "BHI"],
+        "s45": ["CHLOR"],
+        "s33": ["TET"],
+        "s22": ["TET"]
+      },
+      "Staphylococcus_aureus": {
+        "s3": ["KAN", "TET", "AMP", "BHI"]
+      },
+      "Acinetobacter_baumannii": {
+        "s6": ["AMP", "KAN", "CHLOR", "STREP", "TET", "BHI"]
+      },
+      "Enterococcus_faecium": {
+        "s1": ["STREP", "KAN", "AMP", "BHI"]
+      },
+      "Enterococcus_faecalis": {
+        "s1": ["AMP", "STREP", "KAN", "TET"]
+      }
+    },
+    "Bed_Rail_4": {
+      "Staphylococcus_epidermidis": {
+        "s4": ["TET"]
+      },
+      "Staphylococcus_aureus": {
+        "s3": ["AMP", "KAN", "TET", "BHI"]
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["KAN", "AMP", "BHI", "CHLOR"]
+      },
+      "Klebsiella_pneumoniae": {
+        "s11": ["BHI"]
+      }
+    },
+    "Bed_Rail_3": {
+      "Staphylococcus_epidermidis": {
+        "s45": ["CHLOR"],
+        "s4": ["TET"]
+      },
+      "Staphylococcus_aureus": {
+        "s3": ["AMP", "CHLOR", "KAN", "TET", "BHI"]
+      },
+      "Enterococcus_faecalis": {
+        "s9": ["KAN", "STREP", "TET", "BHI"]
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s4": ["AMP", "TET", "BHI"],
+        "s67": ["KAN"]
+      },
+      "Staphylococcus_aureus": {
+        "s3": ["AMP", "KAN", "TET", "BHI"],
+        "s6": ["TET"]
+      }
+    },
+    "Bed_Rail_1": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["KAN"]
+      },
+      "Staphylococcus_aureus": {
+        "s3": ["KAN"]
+      },
+      "Klebsiella_pneumoniae": {
+        "s4": ["AMP", "STREP", "BHI"]
+      }
+    },
+    "Bed_Rail_5": {
+      "Staphylococcus_epidermidis": {
+        "s6": ["KAN"]
+      },
+      "Enterococcus_faecium": {
+        "s1": ["CHLOR", "KAN", "STREP", "BHI"]
+      }
+    },
+    "Bed_Rail_2": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["KAN"]
+      }
+    }
+  },
+  "Ward_1": {
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s5": ["KAN"],
+        "s9": ["TET"],
+        "s13": ["KAN"]
+      },
+      "Staphylococcus_aureus": {
+        "s3": ["KAN", "TET"],
+        "s6": ["TET"],
+        "s24": ["AMP", "BHI"]
+      },
+      "Acinetobacter_baumannii": {
+        "s71": ["AMP"],
+        "s3": ["AMP", "KAN", "TET", "CHLOR", "BHI"],
+        "s6": ["STREP"]
+      },
+      "Enterococcus_faecium": {
+        "s2": ["BHI", "AMP", "KAN", "STREP"]
+      },
+      "Enterococcus_faecalis": {
+        "s1": ["AMP", "STREP"],
+        "s3": ["BHI"]
+      },
+      "Klebsiella_pneumoniae": {
+        "s4": ["AMP", "KAN", "TET"]
+      }
+    },
+    "Bed_Rail_5": {
+      "Staphylococcus_epidermidis": {
+        "s74": ["KAN"],
+        "s61": ["TET"],
+        "s5": ["KAN"],
+        "s9": ["TET"]
+      }
+    },
+    "Bed_Rail_3": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["KAN"],
+        "s44": ["TET"]
+      }
+    },
+    "Bed_Rail_2": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["KAN", "TET"]
+      },
+      "Enterococcus_faecalis": {
+        "s3": ["AMP", "STREP", "TET", "KAN", "CHLOR", "BHI"]
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["KAN", "AMP", "TET", "BHI"]
+      },
+      "Acinetobacter_baumannii": {
+        "s3": ["AMP", "CHLOR", "KAN", "STREP", "TET", "BHI"]
+      }
+    },
+    "Bed_Rail_1": {
+      "Staphylococcus_aureus": {
+        "s6": ["TET"]
+      }
+    },
+    "Bed_Rail_4": {
+      "Acinetobacter_baumannii": {
+        "s3": ["AMP", "CHLOR", "KAN", "TET", "BHI"]
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Acinetobacter_baumannii": {
+        "s3": ["KAN", "TET"]
+      },
+      "Enterococcus_faecium": {
+        "s1": ["STREP"]
+      },
+      "Klebsiella_pneumoniae": {
+        "s1": ["STREP"]
+      }
+    }
+  },
+  "Room_4": {
+    "Bedside_Locker": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["TET"]
+      },
+      "Staphylococcus_aureus": {
+        "s3": ["TET"]
+      },
+      "Klebsiella_pneumoniae": {
+        "s5": ["AMP", "CHLOR", "KAN", "BHI"]
+      }
+    },
+    "Cardiac_Table": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["AMP", "BHI"]
+      },
+      "Acinetobacter_baumannii": {
+        "s8": ["AMP", "CHLOR", "STREP", "TET", "BHI"]
+      }
+    },
+    "Door_Handle": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["TET"]
+      }
+    },
+    "Pulse_Oxymeter": {
+      "Staphylococcus_epidermidis": {
+        "s13": ["TET"]
+      },
+      "Acinetobacter_baumannii": {
+        "s62": ["AMP", "BHI"]
+      },
+      "Enterococcus_faecium": {
+        "s1": ["KAN", "AMP", "CHLOR", "STREP"]
+      }
+    },
+    "Bed_Rail": {
+      "Staphylococcus_aureus": {
+        "s3": ["AMP", "KAN", "TET", "BHI"]
+      }
+    }
+  }
+}
