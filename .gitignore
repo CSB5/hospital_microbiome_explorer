@@ -1,3 +1,7 @@
+# R projects
+.Rproj.user
+.Rhistory
+
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
@@ -21,3 +25,5 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+*~
+*#
