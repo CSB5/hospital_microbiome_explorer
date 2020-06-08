@@ -1,4 +1,4 @@
-Hospital Microbiome Explorer (beta)
+Hospital Microbiome Explorer
 ------
 
 ![](img.png)
@@ -7,7 +7,6 @@ Hospital Microbiome Explorer (beta)
 
 This project provides a proof-of-concept 3D model to explore the hospital microbiome survey data associated with our manuscript ([Chng *et al*, 2020](#citation)). 
 
-Note: currently the software includes partial data (2 rooms and 2 wards) and the full dataset will be added to the future releases.
   
 ## Installation
 
@@ -35,7 +34,7 @@ Data exploration:
 
 ## Citation
 
-Chng *et al*. (2020). Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment. *In press*.
+Chng *et al*. (2020). Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment. *Nature Medicine* ([journal version](https://www.nature.com/articles/s41591-020-0894-4), [bioRxiv version](https://www.biorxiv.org/content/10.1101/644740v2)).
 
 ## Contact
 
