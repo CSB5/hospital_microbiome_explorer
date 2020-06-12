@@ -7,13 +7,8 @@ Hospital Microbiome Explorer
 
 This project provides a proof-of-concept 3D model to explore the hospital microbiome survey data associated with our manuscript ([Chng *et al*, 2020](#citation)). 
 
+Try it [online](https://simmer.io/@lichenhao/hospital-microbiome-explorer).
   
-## Installation
-
-The compiled software is available at the [release page](https://github.com/lch14forever/hospital_microbiome_explorer/releases). The following platforms are supported:
- - [WebGL application](https://github.com/lch14forever/hospital_microbiome_explorer/releases/download/v1.0.1/hospitalExplorerWeb.zip): Windows 7 or Windows 10, Firefox (52 or newer) or Google Chrome (57 or newer)
- - [Windows executable](https://github.com/lch14forever/hospital_microbiome_explorer/releases/download/v1.0.1/HospitalExplorerPc.zip): Windows 7 or Windows 10
-
 ## Usage
 
 Start the application by double clicking index.html (WebGL) or HospitalMicrobiomeExplorer.exe (Windows executable).
@@ -31,6 +26,13 @@ Data exploration:
  - Click the glowing object to toggle the display for site scores and opportunistic pathogens detected at this site. 
  - Click the species name to toggle the display for strains detected at this site and the associated antibiotic resistance profile. 
  - Click the strain name to show the distribution of the strain across sites (highlighted in red) and rooms (highligted in orange on the right panel).
+
+## Local installation
+
+The compiled software is available at the [release page](https://github.com/lch14forever/hospital_microbiome_explorer/releases). The following platforms are supported:
+ - [WebGL application](https://github.com/lch14forever/hospital_microbiome_explorer/releases/download/v1.0.1/hospitalExplorerWeb.zip): Windows 7 or Windows 10, Firefox (52 or newer) or Google Chrome (57 or newer)
+ - [Windows executable](https://github.com/lch14forever/hospital_microbiome_explorer/releases/download/v1.0.1/HospitalExplorerPc.zip): Windows 7 or Windows 10
+
 
 ## Citation
 
