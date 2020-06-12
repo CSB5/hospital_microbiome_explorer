@@ -39,7 +39,7 @@ for(room in unique(dat$Cubicle_room)){
             if(length(strains)==0) next
             posd[[room]][[site]][[sp]] <- list()
             for(strain in strains){
-                tmp <- filter(dat, Cubicle_room==room, Sample_type==site, Species==sp, Strain==strain) %>% 
+                tmp <- filter(dat, Species==sp, Strain==strain) %>% 
                     pull(Antibiotics) %>% unique()
                 if(length(tmp)==0) next
                 posd[[room]][[site]][[sp]][[strain]] <- tmp
